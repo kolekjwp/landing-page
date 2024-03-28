@@ -1,2 +1,2 @@
 # landing-page
-First landing page project with CSS basics leveraging 
+First landing page project utilizing CSS basics
